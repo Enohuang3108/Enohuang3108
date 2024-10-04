@@ -1,15 +1,17 @@
-# Hi there 👋
+# Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%">
 
-## 🖊️ Self Introduction
+<br/>
 
-Hi 我是 Eno
-目前在前端領域３年，使用 React 開發，目前是前端專案的主要管理者。
+我是 Eno，前端開發約有３年經驗，較常使用 React，目前是前端專案的主要管理者。
 
 很幸運的，我可以把興趣當成工作，至少到目前為止仍然對這領域充滿熱誠。
 
 平常沒事會追追新技術，也喜歡看大家對於技術的不同論點，自己也樂於將所學的分享於人。
 
-- [Blog](https://enohuang.com/blog)
+- 📰 Blog: https://enohuang.com/blog
+
+<br/>
+<br/>
 
 ## 💻 Technology stack
 
